@@ -1,0 +1,2 @@
+World geography derived from Natural Earth public domain map data.
+https://www.naturalearthdata.com/
