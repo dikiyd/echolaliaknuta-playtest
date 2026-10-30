@@ -1,6 +1,6 @@
 {
-  "version": "0.34",
-  "build": "5c1ec059dd4c",
+  "version": "0.40",
+  "build": "2febfc193a6e",
   "engine_build": "a08de66e6e0a",
   "save_contract": {
     "protocol": 1,
@@ -15,23 +15,23 @@
       "bytes": 279815,
       "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
     },
-    "game-5c1ec059dd4c.pck": {
-      "bytes": 6339644,
-      "sha256": "b326023415b1fac7efae634bbc5bea4914c6788ad4c7b4207f054db0a0802caa"
+    "game-2febfc193a6e.pck": {
+      "bytes": 6814076,
+      "sha256": "35e36f23c339ace18feddb4e32de7b21c7a077383658d642b3028821d431db4e"
     },
     "engine-a08de66e6e0a.wasm": {
       "bytes": 39514754,
       "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
     },
-    "game-5c1ec059dd4c.png": {
+    "game-2febfc193a6e.png": {
       "bytes": 234752,
       "sha256": "29a39b1d0a5f4e36c1bff7d2af0572c16e6c6a886b3da7e7c9aa0ccf595e7359"
     },
-    "game-5c1ec059dd4c.icon.png": {
+    "game-2febfc193a6e.icon.png": {
       "bytes": 4640,
       "sha256": "a5031344e3e0d48663a495939e1bea850b6689af523ba9d6783984e588c62733"
     },
-    "game-5c1ec059dd4c.apple-touch-icon.png": {
+    "game-2febfc193a6e.apple-touch-icon.png": {
       "bytes": 3672,
       "sha256": "6aa755f8965dc86f806bbcd7f6a632cfd27012997a3f516c84d7cbc34af78c7e"
     },
